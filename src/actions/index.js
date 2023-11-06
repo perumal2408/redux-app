@@ -1,4 +1,3 @@
-// src/actions/index.js
 export const increment = () => {
     return {
       type: "INCREMENT",
